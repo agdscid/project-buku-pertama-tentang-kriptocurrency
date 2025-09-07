@@ -1,0 +1,374 @@
+# PROMPT PENULISAN BUKU CRYPTOCURRENCY
+## "CRYPTOCURRENCY: DARI NOL HINGGA MAHIR"
+
+---
+
+## **BAGIAN I: FONDASI CRYPTOCURRENCY**
+
+### **BAB 1: PENGENALAN DUNIA DIGITAL CURRENCY**
+**Prompt:**
+```
+Tuliskan BAB 1 untuk buku cryptocurrency dengan judul "Pengenalan Dunia Digital Currency". 
+Target: Pemula yang belum mengenal cryptocurrency sama sekali.
+
+Struktur yang harus dicakup:
+- Definisi cryptocurrency yang mudah dipahami dengan analogi sehari-hari
+- Perbandingan mendetail antara mata uang digital vs mata uang tradisional (tabel perbandingan)
+- Penjelasan mengapa cryptocurrency penting di era digital (minimal 5 alasan konkret)
+- Debunking 7 mitos umum tentang crypto beserta faktanya
+
+Gaya penulisan: Conversational, mudah dipahami, gunakan analogi sederhana.
+Panjang: 2000-2500 kata
+Include: Contoh real-world, statistik terbaru, infografis konseptual
+```
+
+### **BAB 2: SEJARAH KELAHIRAN CRYPTOCURRENCY**  
+**Prompt:**
+```
+Tuliskan BAB 2 tentang "Sejarah Kelahiran Cryptocurrency".
+Fokus pada storytelling yang menarik tentang asal-usul crypto.
+
+Struktur wajib:
+- Latar belakang krisis finansial 2008 dan dampaknya terhadap kepercayaan sistem perbankan
+- Misteri Satoshi Nakamoto: profil mendalam, teori identitas, motivasi di balik Bitcoin
+- Analisis Bitcoin whitepaper (31 Oktober 2008) - penjelasan konsep kunci dalam bahasa sederhana
+- Timeline detail perkembangan crypto 2009-2025 dengan milestone penting
+- Cerita di balik transaksi Bitcoin pertama (pizza 10,000 BTC) dan maknanya
+
+Gaya penulisan: Naratif seperti dokumenter, engaging, historically accurate
+Panjang: 3000-3500 kata
+Include: Timeline visual, quotes dari whitepaper, analisis dampak sejarah
+```
+
+### **BAB 3: TEKNOLOGI BLOCKCHAIN - TULANG PUNGGUNG CRYPTOCURRENCY**
+**Prompt:**
+```
+Tuliskan BAB 3 tentang "Teknologi Blockchain" dengan pendekatan step-by-step yang mudah dipahami.
+
+Struktur wajib:
+- Konsep distributed ledger dengan analogi buku catatan komunal
+- Cara kerja blockchain dijelaskan dalam 10 langkah sederhana dengan diagram konseptual
+- Penjelasan cryptographic hashing dengan contoh SHA-256
+- Mekanisme konsensus: Proof of Work vs Proof of Stake (perbandingan detail)
+- Desentralisasi vs sentralisasi: keunggulan dan tantangan masing-masing
+
+Gaya penulisan: Technical tapi accessible, banyak analogi visual
+Panjang: 2500-3000 kata
+Include: Diagram alur, contoh hash, perbandingan tabel PoW vs PoS
+```
+
+---
+
+## **BAGIAN II: MEMAHAMI CRYPTOCURRENCY SECARA MENDALAM**
+
+### **BAB 4: BITCOIN - CRYPTOCURRENCY PERTAMA**
+**Prompt:**
+```
+Tuliskan BAB 4 tentang "Bitcoin - Cryptocurrency Pertama" sebagai deep dive ke Bitcoin.
+
+Struktur wajib:
+- Karakteristik unik Bitcoin: supply cap 21 juta, pembagian desimal, immutability
+- Proses mining Bitcoin: dari hash rate hingga difficulty adjustment
+- Fenomena Bitcoin halving: sejarah, dampak ekonomi, prediksi masa depan
+- Tantangan skalabilitas: throughput TPS, ukuran blok, confirmation time
+- Lightning Network sebagai layer 2 solution (penjelasan teknis dan implementasi)
+
+Gaya penulisan: Technical depth dengan penjelasan praktis
+Panjang: 3500-4000 kata
+Include: Chart halving history, mining difficulty graph, Lightning Network diagram
+```
+
+### **BAB 5: ETHEREUM DAN SMART CONTRACTS**
+**Prompt:**
+```
+Tuliskan BAB 5 tentang "Ethereum dan Smart Contracts" dengan fokus pada inovasi beyond Bitcoin.
+
+Struktur wajib:
+- Vitalik Buterin: visi Ethereum sebagai "world computer"
+- Konsep smart contract dengan 5 contoh use case praktis
+- Ethereum Virtual Machine (EVM): cara kerja dan significance
+- Ekosistem DeFi: AMM, lending, yield farming, top protocols
+- NFT revolution: from CryptoKitties to digital art marketplace
+
+Gaya penulisan: Innovation-focused, forward-looking
+Panjang: 3500-4000 kata
+Include: Smart contract code example, DeFi ecosystem map, NFT market stats
+```
+
+### **BAB 6: JENIS-JENIS CRYPTOCURRENCY**
+**Prompt:**
+```
+Tuliskan BAB 6 tentang "Jenis-jenis Cryptocurrency" sebagai comprehensive categorization.
+
+Struktur wajib:
+Berdasarkan fungsi:
+- Payment coins (Bitcoin, Litecoin, Bitcoin Cash) - analisis comparative
+- Utility tokens (Ethereum, BNB, Chainlink) - use case analysis
+- Stablecoins (USDT, USDC, DAI) - mechanisms dan backing
+- Privacy coins (Monero, Zcash) - privacy technology comparison
+
+Berdasarkan teknologi:
+- Layer 1 protocols (Ethereum, Solana, Cardano)
+- Layer 2 solutions (Polygon, Arbitrum, Optimism)
+- Cross-chain bridges dan interoperability
+
+Gaya penulisan: Categorical, analytical, comparison-heavy
+Panjang: 4000-4500 kata
+Include: Classification matrix, market cap comparison, technology comparison table
+```
+
+---
+
+## **BAGIAN III: EKOSISTEM CRYPTOCURRENCY**
+
+### **BAB 7: WALLET CRYPTOCURRENCY**
+**Prompt:**
+```
+Tuliskan BAB 7 tentang "Wallet Cryptocurrency" dengan fokus praktis dan keamanan.
+
+Struktur wajib:
+- Jenis wallet: Hot vs Cold wallet (perbandingan keamanan vs convenience)
+- Hardware wallet terbaik: Ledger, Trezor, review dan rekomendasi
+- Software wallet: mobile, desktop, browser - review top 10
+- Keamanan private key dan seed phrase: best practices, recovery procedures
+- Multi-signature wallets: konsep, implementasi, use cases
+
+Gaya penulisan: Practical guide, security-focused
+Panjang: 3000-3500 kata
+Include: Wallet comparison matrix, security checklist, setup guides
+```
+
+### **BAB 8: CRYPTOCURRENCY EXCHANGES**
+**Prompt:**
+```
+Tuliskan BAB 8 tentang "Cryptocurrency Exchanges" dengan analisis mendalam pasar exchange.
+
+Struktur wajib:
+- CEX vs DEX: trade-offs, keunggulan/kelemahan masing-masing
+- Cara memilih exchange: kriteria keamanan, likuiditas, fees, regulasi
+- Trading pairs dan order types: market, limit, stop-loss explanation
+- Fee structure: maker/taker, withdrawal fees, spread analysis
+- Regulasi exchange global: compliance requirements, jurisdictional differences
+
+Gaya penulisan: Analytical, decision-making focused
+Panjang: 3500-4000 kata
+Include: Exchange comparison table, fee analysis, regulatory landscape map
+```
+
+### **BAB 9: MINING DAN STAKING**
+**Prompt:**
+```
+Tuliskan BAB 9 tentang "Mining dan Staking" dengan pendekatan teknis dan ekonomis.
+
+Struktur wajib:
+- Konsep mining: dari CPU ke ASIC evolution
+- Hardware requirements: GPU vs ASIC, profitability calculation
+- Mining pools vs solo mining: probability, variance, pool selection
+- Proof of Stake mechanism: validators, slashing, rewards calculation
+- Environmental impact: carbon footprint analysis, green alternatives
+
+Gaya penulisan: Technical, economically aware
+Panjang: 3000-3500 kata
+Include: Mining profitability calculator, staking rewards comparison, environmental impact data
+```
+
+---
+
+## **BAGIAN IV: STRATEGI DAN PRAKTIK**
+
+### **BAB 10: ANALISIS CRYPTOCURRENCY**
+**Prompt:**
+```
+Tuliskan BAB 10 tentang "Analisis Cryptocurrency" sebagai trading/investment guide.
+
+Struktur wajib:
+Technical Analysis:
+- Chart patterns dalam crypto: head & shoulders, triangles, support/resistance
+- Indikator teknikal: RSI, MACD, Bollinger Bands application to crypto
+- Volume analysis dan market sentiment indicators
+
+Fundamental Analysis:
+- Tokenomics analysis: supply/demand dynamics, inflation/deflation models
+- Team evaluation: track record, advisory board, community
+- Adoption metrics: active addresses, transaction volume, developer activity
+- Market sentiment tools: fear & greed index, social media analysis
+
+Gaya penulisan: Educational, actionable
+Panjang: 4000-4500 kata
+Include: Chart examples, analysis frameworks, evaluation checklists
+```
+
+### **BAB 11: STRATEGI INVESTASI CRYPTOCURRENCY**
+**Prompt:**
+```
+Tuliskan BAB 11 tentang "Strategi Investasi Cryptocurrency" dengan fokus risk management.
+
+Struktur wajib:
+- Dollar Cost Averaging (DCA): implementation, backtesting results
+- HODLing vs Trading aktif: psychological factors, performance comparison
+- Portfolio diversification: crypto allocation, correlation analysis
+- Risk management: position sizing, stop-loss strategies, volatility management
+- Tax implications: capital gains, staking rewards, DeFi complexity
+
+Gaya penulisan: Strategic, risk-aware, data-driven
+Panjang: 3500-4000 kata
+Include: Strategy comparison table, risk assessment framework, tax planning guide
+```
+
+### **BAB 12: DeFi DAN APLIKASI LANJUTAN**
+**Prompt:**
+```
+Tuliskan BAB 12 tentang "DeFi dan Aplikasi Lanjutan" untuk advanced users.
+
+Struktur wajib:
+- Yield farming dan liquidity mining: mechanism, risks, top protocols
+- Lending/borrowing protocols: Aave, Compound, overcollateralization concept
+- Decentralized Autonomous Organizations (DAOs): governance, participation
+- GameFi dan Play-to-Earn: Axie Infinity model, sustainability analysis
+- Metaverse dan virtual economies: land ownership, virtual assets
+
+Gaya penulisan: Advanced, experimental, future-focused
+Panjang: 4000-4500 kata
+Include: DeFi protocol comparison, GameFi ecosystem map, DAO governance examples
+```
+
+---
+
+## **BAGIAN V: KEAMANAN DAN REGULASI**
+
+### **BAB 13: KEAMANAN CRYPTOCURRENCY**
+**Prompt:**
+```
+Tuliskan BAB 13 tentang "Keamanan Cryptocurrency" dengan fokus protection strategies.
+
+Struktur wajib:
+- Common scams: phishing, fake exchanges, Ponzi schemes, rug pulls
+- Best practices: 2FA, cold storage, transaction verification
+- Multi-factor authentication: setup guides, backup strategies
+- Cold storage strategies: air-gapped systems, hardware security modules
+- Recovery procedures: seed phrase recovery, wallet migration
+
+Gaya penulisan: Security-focused, prevention-oriented
+Panjang: 3000-3500 kata
+Include: Scam identification guide, security checklist, emergency procedures
+```
+
+### **BAB 14: REGULASI DAN LEGAL ASPECTS**
+**Prompt:**
+```
+Tuliskan BAB 14 tentang "Regulasi dan Legal Aspects" dengan update regulasi terkini.
+
+Struktur wajib:
+- Status hukum cryptocurrency global: country-by-country analysis
+- Regulasi Indonesia: BAPPEBTI, BI, OJK framework terbaru
+- Tax reporting requirements: capital gains calculation, record keeping
+- Compliance dan AML/KYC: exchange requirements, privacy implications
+- Future regulatory trends: CBDC impact, international coordination
+
+Gaya penulisan: Legal, informative, compliance-focused
+Panjang: 3500-4000 kata
+Include: Regulatory comparison table, Indonesia compliance guide, tax calculation examples
+```
+
+---
+
+## **BAGIAN VI: MASA DEPAN CRYPTOCURRENCY**
+
+### **BAB 15: TEKNOLOGI EMERGING**
+**Prompt:**
+```
+Tuliskan BAB 15 tentang "Teknologi Emerging" dengan vision masa depan crypto.
+
+Struktur wajib:
+- Central Bank Digital Currencies (CBDCs): development status, implications
+- Quantum computing threats: timeline, mitigation strategies
+- Interoperability solutions: cross-chain protocols, unified ecosystems
+- Green blockchain initiatives: renewable energy, carbon neutral protocols
+- AI integration: trading bots, predictive analytics, automated protocols
+
+Gaya penulisan: Future-focused, speculative but grounded
+Panjang: 3000-3500 kata
+Include: Technology roadmap, threat analysis, innovation timeline
+```
+
+### **BAB 16: MASS ADOPTION DAN INTEGRATION**
+**Prompt:**
+```
+Tuliskan BAB 16 tentang "Mass Adoption dan Integration" dengan analisis adoption curve.
+
+Struktur wajib:
+- Corporate adoption: Tesla, MicroStrategy, corporate treasury strategies
+- Payment integration: merchant adoption, payment processors
+- Banking partnerships: traditional finance integration
+- Mainstream financial products: crypto ETFs, custody services
+- Global economic impact: remittances, financial inclusion, monetary policy
+
+Gaya penulisan: Adoption-focused, mainstream integration
+Panjang: 3500-4000 kata
+Include: Adoption statistics, integration timeline, economic impact analysis
+```
+
+---
+
+## **BAGIAN VII: PRAKTIK DAN TOOLS**
+
+### **BAB 17: HANDS-ON TUTORIALS**
+**Prompt:**
+```
+Tuliskan BAB 17 tentang "Hands-on Tutorials" sebagai practical implementation guide.
+
+Struktur wajib:
+- Setup wallet pertama: step-by-step dengan screenshots
+- Melakukan transaksi pertama: send/receive, fee calculation
+- Trading di exchange: account setup, order placement, withdrawal
+- Staking implementation: validator selection, reward calculation
+- Using DeFi protocols: connecting wallet, providing liquidity
+
+Gaya penulisan: Tutorial, step-by-step, beginner-friendly
+Panjang: 4000-4500 kata
+Include: Screenshot guides, troubleshooting tips, safety reminders
+```
+
+### **BAB 18: TOOLS DAN RESOURCES**
+**Prompt:**
+```
+Tuliskan BAB 18 tentang "Tools dan Resources" sebagai comprehensive resource guide.
+
+Struktur wajib:
+- Portfolio tracking apps: CoinGecko, CoinMarketCap, Blockfolio comparison
+- News dan information sources: reliable crypto news, analysis platforms
+- Technical analysis tools: TradingView, Coinigy, charting platforms
+- DeFi dashboards: DeFi Pulse, DeBank, portfolio tracking
+- Educational platforms: courses, certifications, community resources
+
+Gaya penulisan: Resource-focused, practical recommendations
+Panjang: 2500-3000 kata
+Include: Tool comparison matrix, resource directory, learning path recommendations
+```
+
+---
+
+## **APPENDIX**
+**Prompt untuk setiap appendix:**
+```
+A. Glossary: Definisi 200+ istilah crypto dalam bahasa sederhana
+B. Reading List: 50 buku, artikel, research papers recommended
+C. Websites dan APIs: Curated list tools dan data sources
+D. Calculator Tools: ROI calculators, mining profitability, DCA calculators
+E. Emergency Procedures: Step-by-step untuk berbagai skenario darurat
+```
+
+---
+
+## **GUIDELINES UMUM UNTUK SEMUA BAB:**
+
+1. **Target Audience**: Tulis untuk 3 level - pemula (60%), intermediate (30%), advanced (10%)
+2. **Tone**: Professional tapi accessible, hindari jargon berlebihan
+3. **Structure**: Gunakan heading, subheading, bullet points untuk readability
+4. **Examples**: Sertakan contoh real-world dan case studies
+5. **Visuals**: Referensikan diagram, chart, infografis (akan dibuat terpisah)
+6. **Updates**: Sertakan info terbaru per September 2025
+7. **Indonesian Context**: Relevan dengan pembaca Indonesia, regulasi lokal
+8. **Action Items**: Setiap bab harus punya actionable takeaways
+9. **Cross-references**: Link ke bab lain yang relevan
+10. **Safety First**: Selalu prioritaskan keamanan dan risk management
